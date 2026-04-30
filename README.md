@@ -5,7 +5,8 @@
 This project is a simple calculator built to practice Git branching and GitHub workflows.
 
 ## Features
-- Basic Addition and Subtraction
+- Basic Addition, Subtraction, Multiplication, Division and Modulo
+- Error Handling for division and modulo by zero
 - Organized folder structure
 
 ## How to Run
