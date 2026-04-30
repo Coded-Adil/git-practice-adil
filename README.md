@@ -1,19 +1,16 @@
-Git & GitHub Practical Assignment
+# Git Practice Project
+**Author:** *Adil Rahman*
 
-Adil Rahman
+## Description
+This project is a simple calculator built to practice Git branching and GitHub workflows.
 
-- Create and manage a GitHub repository
+## Features
+- Basic Addition and Subtraction
+- Organized folder structure
 
-- Use Git locally
-
-- Make multiple commits
-
-- Work with branches
-
-- Merge branches
-
-- Push code to GitHub
-
-- Follow proper folder structure
-
-- Submit a public repository link
+## How to Run
+1. Clone the repo.
+2. Run the main script:
+   ```bash
+   python src/main.py
+   ```
